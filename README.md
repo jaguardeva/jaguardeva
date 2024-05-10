@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I from Indonesia,I am a 4th semester student of informatics engineering/computer science at the Universitas Pembangunan Nasional “Veteran” Jawa Timur with a GPA of 3.96/4.00. A web development enthusiast, specializing in front-end development, I have a strong understanding of HTML, CSS, PHP, and JavaScript, as well as experience using frameworks such as React.js and Next.js. With a keen eye for detail and a passion for creating intuitive user interfaces, I am dedicated to delivering high-quality web solutions. I thrive in collaborative environments and am always eager to learn and stay updated with the latest technologies in the field of web development.</p>
+<p align="left">I from Indonesia, I am a 4th semester student of informatics engineering/computer science at the Universitas Pembangunan Nasional “Veteran” Jawa Timur with a GPA of 3.96/4.00. A web development enthusiast, specializing in front-end development, I have a strong understanding of HTML, CSS, PHP, and JavaScript, as well as experience using frameworks such as React.js and Next.js. With a keen eye for detail and a passion for creating intuitive user interfaces, I am dedicated to delivering high-quality web solutions. I thrive in collaborative environments and am always eager to learn and stay updated with the latest technologies in the field of web development.</p>
 
 ###
 
