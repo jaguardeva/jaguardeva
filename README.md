@@ -49,7 +49,7 @@ I enjoy learning new technologies, solving technical problems, and turning ideas
 ### Tools & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,nodejs,npm,pnpm,sqlserver,vscode,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=git,github,nodejs,npm,pnpm,vscode,visualstudio" />
 </p>
 
 ---
@@ -66,21 +66,12 @@ I enjoy learning new technologies, solving technical problems, and turning ideas
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=jaguardeva&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="165" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaguardeva&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="165" alt="Top Languages" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=jaguardeva&theme=dracula&hide_border=false" alt="GitHub Streak" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jaguardeva&show_icons=true&theme=dracula&hide_border=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaguardeva&layout=compact&theme=dracula&hide_border=true" height="165" alt="Top Languages" />
+</p>
 
 ---
 
