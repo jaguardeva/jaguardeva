@@ -66,15 +66,6 @@ I enjoy learning new technologies, solving technical problems, and turning ideas
 
 ---
 
-## 📊 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaguardeva&show_icons=true&theme=dracula&hide_border=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaguardeva&layout=compact&theme=dracula&hide_border=true" height="165" alt="Top Languages" />
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 I'm always open to connecting with developers, recruiters, and professionals in the technology industry.
